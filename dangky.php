@@ -4,12 +4,6 @@
     <head>
 		<link rel="icon" href="https://minefc.com/wp-content/themes/magicraft/favicon.png">
 	
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="client_id" content="1247393433-la5t1i7s8jc7ve74hbbacfih8q94t4of.apps.googleusercontent.com" />
-    	<meta name="google-signin-client_id" content="1247393433-la5t1i7s8jc7ve74hbbacfih8q94t4of.apps.googleusercontent.com" />
-    	<meta name="google-site-verification" content="DZbi7mtJx-M-oUHWhx_D3CztU9MEFaxVWPOKnf7hzmo" />
 		<meta property="fb:app_id" content="1089059977876558" /><link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
         <title>Thành Viên Minecraft</title>
@@ -21,7 +15,6 @@
         <script src="js/jquery.min.js"></script>
 		<script src="js/function.js"></script>
         <script src="js/bootstrap.min.js"></script>
-<script src="https://www.google.com/recaptcha/api.js?hl=vi"></script>   
 
 
 <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
