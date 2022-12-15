@@ -21,6 +21,7 @@
         <script src="js/jquery.min.js"></script>
 		<script src="js/function.js"></script>
         <script src="js/bootstrap.min.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=vi"></script>   
 
 
 <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
